@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">Final Year CSE Student | WEb Developer / Design | Problem Solver</h3>
+<h3 align="center">Final Year CSE Student | Web Developer / Design | Problem Solver</h3>
 
 ---
 
