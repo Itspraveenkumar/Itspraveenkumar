@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">Final Year CSE Student | Frontend Developer | Problem Solver</h3>
+<h3 align="center">Final Year CSE Student | WEb Developer / Design | Problem Solver</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech in Computer Science and Engineering, **Nirma University** (CGPA: 7.32/10)  
+- 🎓 B.Tech in Computer Science and Engineering, **Nirma University** (CGPA: 7.40/10)  
 - 💻 Passionate about **frontend development**, **problem solving**, and **UI/UX**  
 - 📫 Reach me at: **[praveen14042002@gmail.com](mailto:praveen14042002@gmail.com)**  
 - 🌐 [Portfolio Website](https://techbuddy-praveen.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/praveenkumar1404/)  
