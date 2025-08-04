@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">Final Year CSE Student | Web Developer / Design | Problem Solver</h3>
+<h3 align="center">Final Year CSE Student | Web Developer / Designer | Problem Solver</h3>
 
 ---
 
@@ -11,9 +11,10 @@
 
 ---
 
-### 🛠 Skills
-**Proficient:** C++, JavaScript, Express.js, Node.js, SQL, Git  
-**Familiar:** Python, Java, React.js, Tailwind CSS, MongoDB  
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
